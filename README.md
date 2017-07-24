@@ -1,3 +1,10 @@
+**Table of Contents**
+
+* [Alexa Airplane Spotter ✈️](#alexa-airplane-spotter-)  
+		* [Requirements](#requirements)  
+		* [Set Up For Local Use](#set-up-for-local-use)  
+		* [Notes](#notes)  
+
 # Alexa Airplane Spotter ✈️
 Check out the blog post here: https://www.nicksypteras.com/projects/teaching-alexa-to-spot-airplanes
 
