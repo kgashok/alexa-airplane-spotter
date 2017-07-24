@@ -39,3 +39,4 @@ Check out the blog post here: https://www.nicksypteras.com/projects/teaching-ale
 
 ### Notes
 When building the Alexa skill, you will need to upload the `requests` module to AWS Lambda along with `lambda/lambda_helper.py`. You can do this by installing `requests` into the `lambda/` directory via `pip install requests -t ./lambda`, and then uploading the zipped directory.
+
